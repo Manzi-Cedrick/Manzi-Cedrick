@@ -3,7 +3,7 @@
 
 Let's Plan:
 
-- 🔭 I’m currently great and smarter project!!!Join allowed
+- 🔭 I’m currently working on great and smarter projects!!!Join allowed
 - 🌱 I’m currently building and learning creativity in WEB 3. Tech
 - 👯 I’m looking to collaborate on frontend,backend and ui/ux design projects
 - 🤔 I'm looking for the best collaboration with the world coders
