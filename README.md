@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend and Backend Developer experienced with different Technologies.Creating Amazing creativity in Web 3 Tech..Ready to provide full concern and support on any digitall product</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzi-cedrick&label=Profile%20views&color=0e75b6&style=flat" alt="manzi-cedrick" /> </p>
-
+<a href="https://app.daily.dev/ManziCedrick"><img src="https://api.daily.dev/devcards/aaafeb4bd2944c618625d6909adba63e.png?r=s5t" width="400" alt="Manzi Cedrick.'s Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzi-cedrick" alt="manzi-cedrick" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cedrickmanzii3" target="blank"><img src="https://img.shields.io/twitter/follow/cedrickmanzii3?logo=twitter&style=for-the-badge" alt="cedrickmanzii3" /></a> </p>
